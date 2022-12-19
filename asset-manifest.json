@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/markdow/static/css/main.d8680429.css",
+    "main.js": "/markdow/static/js/main.47ba474d.js",
+    "index.html": "/markdow/index.html",
+    "main.d8680429.css.map": "/markdow/static/css/main.d8680429.css.map",
+    "main.47ba474d.js.map": "/markdow/static/js/main.47ba474d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d8680429.css",
+    "static/js/main.47ba474d.js"
+  ]
+}
